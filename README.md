@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on becaming a great developer!
-- 🌱 I’m currently learning NODE.js
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on begginers projects
 - 📫 How to reach me: jufabr.07@gmail.com
 - ⚡ Fun fact: I'am passionate about learning new languages
